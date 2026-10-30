@@ -1,4 +1,4 @@
-# RIVEN CLOUD VPS Manager Bot (v4)
+# RIVEN CLOUD VPS Manager Bot (v5)
 
 A Discord bot that deploys and manages Docker-based VPS containers, with full
 `systemctl` support, **direct root SSH access** (real IP, port, username, and
@@ -38,8 +38,8 @@ physical server, all from one bot.
 ### 1. Clone the repository
 
 ```bash
-git clone https://github.com/anikdev-mx/rivencloud-ipv4.git
-cd rivencloud-ipv4
+git clone https://github.com/anikdev-mx/rivencloud-vps-bot-v5.git
+cd rivencloud-vps-bot-v5
 ```
 
 ### 2. Install Docker
